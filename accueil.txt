@@ -1,4 +1,4 @@
 accueil
-test 2
+test 2 qui a généré un conflit mais c'est pas grave
 bug résolu
-tentative de conflit
+
