@@ -1,2 +1,3 @@
 accueil
 bug résolu
+tentative de conflit
