@@ -1,2 +1,2 @@
 accueil
-gros bug
+bug résolu
