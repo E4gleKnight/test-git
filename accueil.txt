@@ -1,3 +1,4 @@
 accueil
+test 2
 bug résolu
 tentative de conflit
